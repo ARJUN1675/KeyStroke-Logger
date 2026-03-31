@@ -1,0 +1,1 @@
+Key.print_screen<109>Key.ctrl_l<109><109>Key.ctrl_lKey.ctrl_l<189><189>Key.ctrl_l'-''_'Key.shiftKey.backspace<109><109><109><109><107><107>Key.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l'm''y'Key.space'n''a''m''e'Key.space'i''s'Key.space'a'Key.backspaceKey.backspaceKey.backspace'A'Key.shift'r''j''u''n'
